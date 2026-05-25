@@ -1,0 +1,162 @@
+[
+    {
+        "cauhoi": "Cuộc chiến tranh giữ nước đầu tiên của dân tộc ta là:",
+        "options": [
+            "Cuộc kháng chiến chống quân Nam Hán.",
+            "Cuộc kháng chiến chống quân Nguyên Mông.",
+            "Cuộc kháng chiến chống quân Triệu Đà.",
+            "Cuộc kháng chiến chống quân Tần"
+        ],
+        "dapan": 3
+    },
+    {
+        "cauhoi": "Cuộc khởi nghĩa Lam sơn và chiến tranh giải phóng dân tộc do Lê Lợi và Nguyễn Trãi lãnh đạo diễn ra từ:",
+        "options": [
+            "Năm 1427 - 1481",
+            "Năm 1472 - 1481",
+            "Năm 1418 - 1427",
+            "Năm 1418 - 1472."
+        ],
+        "dapan": 2
+    },
+    {
+        "cauhoi": "Cơ sở để hình thành nghệ thuật 'lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu chống mạnh' của cha ông ta là:",
+        "options": [
+            "Quân đội ta rất thiện chiến, có khả năng tác chiến trên mọi địa hình nhưng quân số không đông.",
+            "Điều kiện địa lý, kinh tế - chính trị không cho phép xây dựng những đội quân có số lượng lớn và trang bị đầy đủ.",
+            "Dân tộc ta yêu chuộng hoà bình, không chủ trương xây dựng quân đội với quân số đông, chỉ xây dựng quân đội tinh nhuệ, sẵn sàng cho chiến tranh.",
+            "Nước ta đất không rộng, người không đông, nhưng luôn phải chống lại các đội quân xâm lược có quân số, vũ khí, trang bị lớn hơn nhiều lần."
+        ],
+        "dapan": 3
+    },
+    {
+        "cauhoi": "Một trong những nghệ thuật đánh giặc của ông cha ta là nghệ thuật:",
+        "options": [
+            "Chiến tranh nhân dân, lấy lực lượng ba thứ quân làm nòng cốt",
+            "Vận dụng sáng tạo cách đánh của nhiều lực lượng, nhiều thứ quân",
+            "Chiến tranh nhân dân, thực hiện toàn dân đánh giặc",
+            "Tận dụng ưu thế địa hình, lấy yếu thắng mạnh."
+        ],
+        "dapan": 2
+    },
+    {
+        "cauhoi": "Tác dụng của mặt trận binh vận là gì?",
+        "options": [
+            "Làm cho kẻ địch phải chuyển từ chủ động tiến công sang bị động phòng ngự.",
+            "Làm tan rã hàng ngũ của địch, hạn chế thấp nhất tổn thất của ta.",
+            "Làm cho lực lượng kẻ thù thương vong, không còn khả năng chiến đấu.",
+            "Làm tan rã hàng ngũ của địch, không còn khả năng tác chiến."
+        ],
+        "dapan": 1
+    },
+    {
+        "cauhoi": "Một trong những cơ sở hình thành nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo:",
+        "options": [
+            "Từ quan điểm của chủ nghĩa Mác - Lê nin về đấu tranh dân tộc.",
+            "Từ quan điểm của chủ nghĩa Mác - Lênin về đấu tranh giai cấp.",
+            "Chủ nghĩa Mác - Lênin về chiến tranh, quân đội và bảo vệ Tổ quốc",
+            "Tư tưởng Hồ Chí Minh về chiến tranh, quân đội và bảo vệ Tổ quốc."
+        ],
+        "dapan": 2
+    },
+    {
+        "cauhoi": "Nghệ thuật quân sự Việt Nam được hình thành và phát triển trong quá trình:",
+        "options": [
+            "Dựng nước và giữ nước của dân tộc",
+            "Xây dựng và bảo vệ Tổ quốc.",
+            "Đánh giặc của ông cha ta.",
+            "Chiến tranh ở Việt Nam và trên thế giới."
+        ],
+        "dapan": 0
+    },
+    {
+        "cauhoi": "Nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo gồm ba bộ phận cơ bản hợp thành, đó là:",
+        "options": [
+            "Chiến lược quân sự, nghệ thuật vận động hàng binh và chiến thuật.",
+            "Chiến lược quân sự, kỹ thuật chiến đấu và chiến thuật.",
+            "Chiến lược quân sự, nghệ thuật chiến dịch và chiến thuật.",
+            "Chiến lược quân sự, nghệ thuật chiến dịch và chiến tranh toàn diện."
+        ],
+        "dapan": 2
+    },
+    {
+        "cauhoi": "Một trong những nội dung trong chiến lược quân sự Việt Nam từ khi có Đảng lãnh đạo là?",
+        "options": [
+            "Xác định Đúng kẻ thù, Đúng đối tượng tác chiến.",
+            "Xác định Đúng đối tác, đối tượng.",
+            "Xác định Đúng thủ đoạn, cách đánh của kẻ thù.",
+            "Xác định vũ khí, quân số của kẻ thù."
+        ],
+        "dapan": 0
+    },
+    {
+        "cauhoi": "Khi Pháp xâm lược Việt Nam, Đảng ta nhận định:",
+        "options": [
+            "Lực lượng của Pháp đông và mạnh.",
+            "Lực lượng của Pháp như mặt trời trước lúc hoàng hôn",
+            "Lực lượng của Pháp mạnh, hống hách nhưng hay chủ quan",
+            "Lực lượng của Pháp như mặt trời lúc bình minh"
+        ],
+        "dapan": 1
+    },
+    {
+        "cauhoi": "Ba mũi giáp công trong nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo bao gồm:",
+        "options": [
+            "Quân sự, chính trị, ngoại giao.",
+            "Quân sự, chính trị, Kinh tế.",
+            "Quân sự, chính trị, binh vận.",
+            "Quân sự, chính trị, dân vận."
+        ],
+        "dapan": 0
+    },
+    {
+        "cauhoi": "Quy mô chiến dịch trong cuộc kháng chiến chống thực dân Pháp khi lớn nhất là?",
+        "options": [
+            "Có sự kết hợp của các quân binh chủng.",
+            "Có sự kết hợp của các đại đoàn (sư đoàn).",
+            "Có sự kết hợp của các quân đoàn.",
+            "Có sự kết hợp của các quân đoàn chủ lực và lực lượng vũ trang địa phương."
+        ],
+        "dapan": 1
+    },
+    {
+        "cauhoi": "Những ngày đầu kháng chiến chống Pháp, quy mô chiến dịch của ta?",
+        "options": [
+            "Từ 1 đến 3 đại đoàn, vũ khí trang bị chiến đấu thô sơ.",
+            "Từ 1 đến 3 đại đoàn, vũ khí trang bị chiến đấu tương đối hiện đại.",
+            "Từ 1 đến 3 trung đoàn, vũ khí trang bị chiến đấu tương đối hiện đại.",
+            "Từ 1 đến 3 trung đoàn, vũ khí trang bị chiến đấu thô sơ."
+        ],
+        "dapan": 3
+    },
+    {
+        "cauhoi": "Những ngày đầu kháng chiến chống Mỹ, quy mô chiến dịch của ta?",
+        "options": [
+            "Từ 1 đến 2 sư đoàn, sau đó phát triển đến quân đoàn.",
+            "Từ 1 đến 2 trung đoàn, sau đó phát triển đến sư đoàn.",
+            "Từ 1 đến 2 tiểu đoàn, sau đó phát triển đến quân chủng.",
+            "Từ 1 đến 2 sư đoàn, và một số binh chủng tham gia."
+        ],
+        "dapan": 1
+    },
+    {
+        "cauhoi": "Chiến thuật là lý luận và thực tiễn về tổ chức và thực hành chiến đấu của:",
+        "options": [
+            "Lực lượng vũ trang ba thứ quân.",
+            "Bộ đội chủ lực.",
+            "Phân đội, binh đội, binh đoàn lực lượng vũ trang.",
+            "Sư đoàn và tương đương."
+        ],
+        "dapan": 2
+    },
+    {
+        "cauhoi": "Các hình thức chiến thuật thường vận dụng trong giai đoạn đầu kháng chiến chống Pháp và chống Mỹ:",
+        "options": [
+            "Phản công, phòng ngự, tập kích.",
+            "Tập kích, phục kích, vận động tiến công.",
+            "Phục kích, đánh úp, đánh công kiên.",
+            "Phòng ngự, phục kích, phản kích."
+        ],
+        "dapan": 1
+    }
+]
